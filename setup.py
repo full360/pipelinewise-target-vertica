@@ -26,7 +26,7 @@ setup(name="pipelinewise-target-vertica",
       extras_require={
           "test": [
               'nose==1.3.7',
-              'mock==3.0.5',
+              'mock==5.0.0',
               'pylint==2.4.4',
               'nose-cov==1.6'
             ]
